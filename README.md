@@ -4,11 +4,14 @@
 ### Churn Analysis Dashboard Project | Excel + Power BI + SQL + Machine Learning
 > This project focuses on building a complete churn analysis using Excel, Power BI, SQL Server, and Python (Jupyter Notebook). It covers every phase from data extraction, transformation, and loading (ETL), through data modeling and visualization, to advanced machine learning model development to predict customer churn.
 
-#### Steps in creating this dynamic dashboard:
-> 1.  
-> 2.  
-> 3.  
+#### Project Breakdown:
+> 1. ETL Process in SQL Server:
+>    *Database, table, and view creation.
+>    *Data cleaning and transformation using SQL queries.
+>    *Removing NULL values and replacing them with cleaned data for further analysis.
+> 2.
 > 4.  
+> 5.  
 
 ![image](https://github.com/user-attachments/assets/574c4cad-17c1-45f9-bfb7-1faf0f265abf)
 
